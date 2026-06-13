@@ -199,7 +199,7 @@ All experiments use:
 
 ## Paper
 
-The full research paper is available in the `paper/` directory.
+The full research paper is available in the 'Research Paper' directory.
 
 ---
 
